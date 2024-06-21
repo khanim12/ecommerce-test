@@ -1,0 +1,146 @@
+{
+  "flashSales": [
+    {
+      "icon": "FaGamepad",
+      "name": "HAVIT HV-992 Gamepad",
+      "discount": "40%",
+      "price": "$120",
+      "originalPrice": "$160",
+      "rating": "4.5",
+      "reviews": "(88)"
+    },
+    {
+      "icon": "FaKeyboard",
+      "name": "AK-900 Wired Keyboard",
+      "discount": "35%",
+      "price": "$960",
+      "originalPrice": "$1600",
+      "rating": "4.8",
+      "reviews": "(75)"
+    },
+    {
+      "icon": "tv",
+      "name": "AK-900 Wired Keyboard",
+      "discount": "35%",
+      "price": "$960",
+      "originalPrice": "$1600",
+      "rating": "4.8",
+      "reviews": "(75)"
+    },
+    {
+      "icon": "chair",
+      "name": "AK-900 Wired Keyboard",
+      "discount": "35%",
+      "price": "$960",
+      "originalPrice": "$1600",
+      "rating": "4.8",
+      "reviews": "(75)"
+    }
+  ],
+  "browseByCategory": [
+    {
+      "icon": "MdPhoneAndroid",
+      "name": "Phones"
+    },
+    {
+      "icon": "HiOutlineComputerDesktop",
+      "name": "Computers"
+    },
+    {
+      "icon": "BsSmartwatch",
+      "name": "SmartWatch"
+    },
+    {
+      "icon": "IoCameraOutline",
+      "name": "Camera"
+    },
+    {
+      "icon": "CiHeadphones",
+      "name": "HeadPhones"
+    },
+    {
+      "icon": "IoGameControllerOutline",
+      "name": "Gaming"
+    }
+  ],
+  "exploreProducts": [
+    {
+      "icon": "FaCamera",
+      "name": "CANON EOS DSLR Camera",
+      "price": "$380",
+      "rating": "4.7",
+      "reviews": "(30)"
+    },
+    {
+      "icon": "FaLaptop",
+      "name": "ASUS RHD Gaming Laptop",
+      "price": "$700",
+      "rating": "4.5",
+      "reviews": "(328)"
+    }
+  ],
+  "BestProducts": [
+    {
+      "icon": "jacket",
+      "name": "The north coat",
+      "price": "$260",
+      "originalPrice": "$360",
+      "rating": "4.3",
+      "reviews": "(65)"
+    },
+    {
+      "icon": "bag",
+      "name": "Gucci duffle bag",
+      "price": "$960",
+      "originalPrice": "$1600",
+      "rating": "4.8",
+      "reviews": "(65)"
+    },
+    {
+      "icon": "mp3",
+      "name": "RGB liquid CPU Cooler",
+      "price": "$160",
+      "originalPrice": "$170",
+      "rating": "4.8",
+      "reviews": "(95)"
+    },
+    {
+      "icon": "bookself",
+      "name": "Small BookSelf",
+      "price": "$360",
+      "originalPrice": "$179",
+      "rating": "4.8",
+      "reviews": "(75)"
+    }
+  ],
+  "ExploreProducts":[
+    {
+      "icon": "cat",
+      "name": "Breed Dry Dog Food",
+      "originalPrice": "$100",
+      "rating": "3",
+      "reviews": "(35)"
+    },
+    {
+      "icon": "fotoaparat",
+      "name": "CANON EOS DSLR Camera",
+      "originalPrice": "$360",
+      "rating": "4",
+      "reviews": "(95)"
+    },
+    {
+      "icon": "laptop",
+      "name": "ASUS FHD Gaming Laptop",
+      "originalPrice": "$700",
+      "rating": "5",
+      "reviews": "(325)"
+    }, {
+      "icon": "fotoaparat",
+      "name": "Curology Product Set ",
+      "originalPrice": "$500",
+      "rating": "4",
+      "reviews": "(145)"
+    }
+
+  ]
+}
